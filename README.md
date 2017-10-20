@@ -2,7 +2,8 @@ Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
 ## This repo
-Status: \<Add Travis Status Badge\>
+#h
+Status: [![Build Status](ttps://travis-ci.org/Naddinn/stringCalcWeb.png)](ttps://travis-ci.org/Naddinn/stringCalcWeb)
 
 Is a very simple Spark Web application, built with Gradle.
 
@@ -66,7 +67,3 @@ You will need:
 
 1. A basic understanding of how Heroku and Travis can communicate: [http://docs.travis-ci.com/user/deployment/heroku/](http://docs.travis-ci.com/user/deployment/heroku/)
 2. Travis command line tools: [https://github.com/travis-ci/travis.rb](https://github.com/travis-ci/travis.rb)
-
-
-
-
