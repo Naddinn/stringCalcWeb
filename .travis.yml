@@ -13,3 +13,6 @@ deploy:
   app: sheltered-plateau-30331
   on:
     repo: Naddinn/stringCalcWeb
+
+ notifications:
+    slack: l2n3rd:Sxl7Uh3iXQFm37kA1b2iS2yI
